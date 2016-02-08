@@ -1,4 +1,4 @@
-FROM alpine:latest
+FROM alpine
 MAINTAINER justin@dray.be
 
 RUN apk update
